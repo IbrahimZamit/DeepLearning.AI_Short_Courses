@@ -1,3 +1,4 @@
+![course_logo](https://external-preview.redd.it/building-systems-with-the-chatgpt-api-course-w-andrew-ng-v0-VVKWv4TRKByKM8z-3tLA7iQoBcLDKhmeTqu67XB02fk.jpg?width=1080&crop=smart&auto=webp&s=85d81d0c11acae1b64fbc37ed5976fef9d56dbab)
 ### Welcome to [Building Systems With The ChatGPT API](https://www.coursera.org/projects/building-systems-with-the-chatgpt-api-project)
 
 In this one-hour course, participants will delve into the intricacies of automating workflows using the ChatGPT API, led by industry experts Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI).
