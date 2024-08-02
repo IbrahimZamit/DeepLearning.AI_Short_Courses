@@ -1,6 +1,7 @@
 .env
 
-Pretraining LLMs/models
+models/
 
 # Remove files from the index while keeping them in the working directory
 git rm -r --cached models/
+.conda
